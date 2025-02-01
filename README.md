@@ -6,7 +6,6 @@
 - 💻 I'm a beginner backend developer
 - 🎯 Interested in web development and constantly improving my skills
 - 🎵 Love DJ music and enjoy listening while coding
-- 📺 A big fan of Korean dramas and anime
 
 ### 🚀 Technologies & Tools:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
